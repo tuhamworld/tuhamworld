@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tunde Sanusi
 ====================================================================================================================================
 
+[![Collection of @tuhamworld's Holopin badges](https://holopin.me/tuhamworld)](https://holopin.io/@tuhamworld)
+
+-----------------
 Frontend Engineer
 -----------------
 
-I have been learning to code for a time - I almost couldn't remember. I started with HTML and have worked with other languages, frameworks and technolgy. I am still currently honing my skills
+I have been learning to code for a time - I almost couldn't remember. I started with HTML and have worked with other languages, frameworks, and technology. I am still currently honing my skills
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://tuhamworld.vercel.app/)
@@ -12,7 +15,7 @@ I have been learning to code for a time - I almost couldn't remember. I started 
 * 🚀  I'm currently working on [Random Colors Generator](http://random-colors-generator.vercel.app/)
 * 🧠  I'm learning JavaScript and React
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love travelling and hopefully someday, go skydiving
+* ⚡  I love traveling and hopefully someday, going skydiving
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tuhamworld?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
