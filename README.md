@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tunde Sanusi
 ====================================================================================================================================
 
-[![Collection of @tuhamworld's Holopin badges]([https://holopin.io/api/board?user=tuhamworld](https://www.holopin.io/@tuhamworld#badges))](https://holopin.io/@tuhamworld)
+[![@tuhamworld's Holopin board](https://holopin.me/tuhamworld)](https://holopin.io/@tuhamworld)
+
 
 -----------------
 Frontend Engineer
