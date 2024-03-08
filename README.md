@@ -11,11 +11,11 @@ Frontend Engineer
 I have been learning to code for a time - I almost couldn't remember. I started with HTML and have worked with other languages, frameworks, and technology. I am still currently honing my skills
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://tuhamworld.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [Random Colors Generator](http://random-colors-generator.vercel.app/)
+* 🚀  I'm currently working on [Meme Generator](https://de-meme.netlify.app/)
 * 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to a full-time, or part-time FE role
 * ⚡  I love traveling and hopefully someday, going skydiving
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
