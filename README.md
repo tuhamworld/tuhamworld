@@ -11,11 +11,11 @@ Frontend Engineer
 I have been learning to code for a time - I almost couldn't remember. I started with HTML and have worked with other languages, frameworks, and technology. I am still currently honing my skills
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [Meme Generator](https://de-meme.netlify.app/)
+* 🚀  I'm currently working on [React Markdown Editor](https://react-mde.vercel.app//)
 * 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to a full-time, or part-time FE role
+* 🤝  I'm open to a full-time, part-time or contract FE role
 * ⚡  I love traveling and hopefully someday, going skydiving
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
