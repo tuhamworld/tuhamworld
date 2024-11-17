@@ -5,10 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 -----------------
-Frontend Engineer
+Frontend Engineer x Web Designer
 -----------------
-
-I've experimented with different web building platform (e.g Wapka, Muf.Mobi, Blogspot, Weebly, WordPress) before diving into fully-code, and have worked with other languages, frameworks, and technology. I am still currently honing my skills on WordPress and fully-code tools.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
