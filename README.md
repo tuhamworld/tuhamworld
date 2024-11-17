@@ -8,14 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-I have been learning to code for a time - I almost couldn't remember. I started with HTML and have worked with other languages, frameworks, and technology. I am still currently honing my skills
+I've experimented with different web building platform (e.g Wapka, Muf.Mobi, Blogspot, Weebly, WordPress) before diving into fully-code, and have worked with other languages, frameworks, and technology. I am still currently honing my skills on WordPress and fully-code tools.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [React Markdown Editor](https://react-mde.vercel.app//)
-* 🧠  I'm learning JavaScript and React
-* 🤝  I'm open to a full-time, part-time or contract FE role
+* 🚀  I'm currently working on [Pluttr Finance Tracking App](https://app.pluttr.com)
+* 🧠  I'm learning JavaScript, React, and PHP
+* 🤝  I'm open to a full-time, part-time, or contract FE role
 * ⚡  I love traveling and hopefully someday, going skydiving
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
