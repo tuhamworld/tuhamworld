@@ -5,15 +5,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 -----------------
-Frontend Engineer x Web Designer
+Frontend Engineer x Web Developer
 -----------------
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based on Planet Earth
 * 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [Pluttr Finance Tracking App](https://app.pluttr.com)
+* 🚀  I'm currently working on [Pluttr Finance Tracking App v10.24](https://app.pluttr.com)
 * 🧠  I'm learning JavaScript, React, and PHP
-* 🤝  I'm open to a full-time, part-time, or contract FE role
+* 🤝  I'm open to a full-time, part-time, or contract FE/WP role
 * ⚡  I love traveling and hopefully someday, going skydiving
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
