@@ -5,16 +5,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 -----------------
-Frontend Engineer x Web Developer
+Frontend Engineer x WordPress Developer
 -----------------
 
 * 🌍  I'm based on Planet Earth
 * 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [Pluttr Finance Tracking App v10.24](https://app.pluttr.com)
+* 🚀  I'm currently working on [Pic Adjust Web App](https://picadjust.vercel.app/)
 * 🧠  I'm learning JavaScript, React, and PHP
 * 🤝  I'm open to a full-time, part-time, or contract FE/WP role
-* ⚡  I love traveling and hopefully someday, going skydiving
+* ⚡  A Product is as important as its codebase
 
 <a href="https://www.x.com/tuhamworld" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tuhamworld?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
