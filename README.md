@@ -11,8 +11,8 @@ Frontend Engineer x WordPress Developer
 * 🌍  I'm based on Planet Earth
 * 🖥️  See my portfolio at [My Portfolio](http://tundesanusi.vercel.app/) x [TuhamWorld CC](http://tuhamworld.com/)
 * ✉️  You can contact me at [tuhamworld@gmail.com](mailto:tuhamworld@gmail.com)
-* 🚀  I'm currently working on [Pic Adjust Web App](https://picadjust.vercel.app/)
-* 🧠  I'm learning JavaScript, React, and PHP
+* 🚀  I'm currently working on [PicAdjust Image Optimizer](https://picadjust.com/) x [MathQuickTap](https://MathQuickTap.vercel.app/)
+* 🧠  I'm learning ReactJS, NodeJS, and ExpressJS
 * 🤝  I'm open to a full-time, part-time, or contract FE/WP role
 * ⚡  A Product is as important as its codebase
 
